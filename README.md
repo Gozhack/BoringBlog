@@ -11,6 +11,7 @@ The main idea for this readme, is just a reminder for myself (in future), when I
 By now, March 2019, this are the current settings to get boring site running...
 
 * [.NET Core 2.2.105](https://dotnet.microsoft.com/download)
+* [Jenkins 2.164.1](https://jenkins.io/download/)
 * [Domain from Freenom](https://www.freenom.com/en/index.html?lang=en)
 * [SmarterASP.NET Hosting](https://www.smarterasp.net/)
 
